@@ -2,67 +2,145 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f405b3b6-06cb-4f9d-a472-fa0161847950" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Seraphimdroid/Seraphimdroid.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Seraphimdroid/app/app.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Seraphimdroid/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Seraphimdroid/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Seraphimdroid/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Seraphimdroid/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Seraphimdroid/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Seraphimdroid/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Seraphimdroid/.idea/runConfigurations.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Seraphimdroid/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Seraphimdroid/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="C:\Android\owasp-seraphimdroid5\Seraphimdroid\libs\weka-3.6.6-android.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/AppLocker.png" afterPath="$PROJECT_DIR$/Resources/AppLocker.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Documentation.docx" afterPath="$PROJECT_DIR$/Documentation.docx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OWASP - Seraphimdroid.apk" afterPath="$PROJECT_DIR$/OWASP - Seraphimdroid.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/SeraphimdroidUML.png" afterPath="$PROJECT_DIR$/Resources/SeraphimdroidUML.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/Thumbs.db" afterPath="$PROJECT_DIR$/Seraphimdroid/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/add_from_contact_image.png" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/add_from_contact_image.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/raw/alarm_sound.mp3" afterPath="$PROJECT_DIR$/Seraphimdroid/res/raw/alarm_sound.mp3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/button_add.png" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/button_add.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/contact.png" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/contact.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable-hdpi/ic_drawer.png" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable-hdpi/ic_drawer.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/ic_green_tick.png" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/ic_green_tick.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/ic_launcher-web.png" afterPath="$PROJECT_DIR$/Seraphimdroid/ic_launcher-web.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/ic_launcher.png" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/ic_launcher_smal.png" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/ic_launcher_smal.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/ic_launcher_small.png" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/ic_launcher_small.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/ic_red_cross.png" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/ic_red_cross.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/icon_about.png" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/icon_about.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/icon_delete.png" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/icon_delete.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/icon_delete_disabled.png" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/icon_delete_disabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/icon_edit.png" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/icon_edit.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/icon_edit_disabled.png" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/icon_edit_disabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/icon_geo_fencing.png" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/icon_geo_fencing.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/icon_lock.png" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/icon_lock.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/icon_logs.png" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/icon_logs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/icon_permission_scanner.png" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/icon_permission_scanner.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/icon_settings.png" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/icon_settings.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/keystore" afterPath="$PROJECT_DIR$/Seraphimdroid/keystore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/.classpath" afterPath="$PROJECT_DIR$/Seraphimdroid/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/.project" afterPath="$PROJECT_DIR$/Seraphimdroid/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/API Key" afterPath="$PROJECT_DIR$/Seraphimdroid/API Key" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/AboutFragment.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/AboutFragment.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/AddBlacklistContactActivity.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/AddBlacklistContactActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/services/AppInstallService.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/services/AppInstallService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/AndroidManifest.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/AppLockFragment.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/AppLockFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/services/AppLockService.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/services/AppLockService.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/adapter/AppLockerAdapter.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/adapter/AppLockerAdapter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/receiver/ApplicationInstallReceiver.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/receiver/ApplicationInstallReceiver.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/BlacklistActivity.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/BlacklistActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/adapter/BlacklistAdapter.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/adapter/BlacklistAdapter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/BlockerFragment.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/BlockerFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/receiver/BluetoothStateReceiver.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/receiver/BluetoothStateReceiver.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/receiver/BootReceiver.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/receiver/BootReceiver.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/CallLogFragment.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/CallLogFragment.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/receiver/CallRecepter.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/receiver/CallRecepter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/ChangePasswordActivity.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/ChangePasswordActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/services/CheckAppLaunchThread.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/services/CheckAppLaunchThread.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/CustomUSSDActivity.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/CustomUSSDActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/app/src/main/java/org/owasp/seraphimdroid/org/owasp/seraphimdroid/database/DatabaseHelper.java" afterPath="$PROJECT_DIR$/Seraphimdroid/app/src/main/java/org/owasp/seraphimdroid/org/owasp/seraphimdroid/database/DatabaseHelper.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/database/DatabaseHelper.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/database/DatabaseHelper.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/adapter/DrawerAdapter.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/adapter/DrawerAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/model/DrawerItem.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/model/DrawerItem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/services/GPSTracker.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/services/GPSTracker.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/receiver/GeoFencingAdminReceiver.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/receiver/GeoFencingAdminReceiver.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/GeoFencingFragment.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/GeoFencingFragment.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/services/GeoFencingService.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/services/GeoFencingService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/services/KillBackgroundService.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/services/KillBackgroundService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE.txt" afterPath="$PROJECT_DIR$/LICENSE.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/receiver/LockLauncher.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/receiver/LockLauncher.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/LogDetailActivity.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/LogDetailActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/adapter/LogSwipeAdapter.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/adapter/LogSwipeAdapter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/MainActivity.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/MainActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/services/MakeACallService.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/services/MakeACallService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/receiver/MobileDataStateReceiver.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/receiver/MobileDataStateReceiver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/MyTabFactory.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/MyTabFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/model/NoImeEditText.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/model/NoImeEditText.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/services/OutGoingSmsRecepter.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/services/OutGoingSmsRecepter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/PasswordActivity.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/PasswordActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/model/PermissionData.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/model/PermissionData.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/PermissionDescription.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/PermissionDescription.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/PermissionGetter.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/PermissionGetter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/adapter/PermissionScannerAdapter.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/adapter/PermissionScannerAdapter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/PermissionScannerFragment.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/PermissionScannerFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/services/SIMCheckService.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/services/SIMCheckService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/SMSLogFragment.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/SMSLogFragment.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/receiver/SMSRecepter.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/receiver/SMSRecepter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/ServiceLockFragment.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/ServiceLockFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/services/ServicesLockService.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/services/ServicesLockService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/adapter/ServicesLockerAdapter.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/adapter/ServicesLockerAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/app/src/main/java/org/owasp/seraphimdroid/org/owasp/seraphimdroid/adapter/ServicesLockerAdapter.java" afterPath="$PROJECT_DIR$/Seraphimdroid/app/src/main/java/org/owasp/seraphimdroid/org/owasp/seraphimdroid/adapter/ServicesLockerAdapter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/receiver/SettingsCheckAlarmReceiver.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/receiver/SettingsCheckAlarmReceiver.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/SettingsCheckerFragment.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/SettingsCheckerFragment.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/SettingsFragment.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/SettingsFragment.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/adapter/TabsPagerAdapter.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/adapter/TabsPagerAdapter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/USSDLogFragment.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/USSDLogFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/receiver/WifiStateReceiver.java" afterPath="$PROJECT_DIR$/Seraphimdroid/src/org/owasp/seraphimdroid/receiver/WifiStateReceiver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/activity_change_password.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/activity_change_password.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/activity_log_detail.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/activity_log_detail.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/activity_password.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/activity_password.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/activity_permission_description.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/activity_permission_description.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/app_locker_item.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/app_locker_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/values/array.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/values/array.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/menu/blacklist_activity_menu.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/menu/blacklist_activity_menu.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/blacklist_add_dialog.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/blacklist_add_dialog.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/blacklist_item.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/blacklist_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/button_disabled.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/button_disabled.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/button_enabled.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/button_enabled.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/button_pressed.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/button_pressed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/values/colors.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/values/colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/custom_ussd.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/custom_ussd.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/custom_ussd_add_dialog.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/custom_ussd_add_dialog.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/custom_ussd_item.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/custom_ussd_item.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/xml/device_admin_policies.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/xml/device_admin_policies.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/values/dimens.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/values/dimens.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/values-w820dp/dimens.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/values-w820dp/dimens.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/drawer_row_layout.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/drawer_row_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/edit_text_dialog_view.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/edit_text_dialog_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/fragment_about.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/fragment_about.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/fragment_application_locker.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/fragment_application_locker.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/fragment_blocker.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/fragment_blocker.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/fragment_call_log.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/fragment_call_log.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/fragment_geofencing.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/fragment_geofencing.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/fragment_permission_scanner.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/fragment_permission_scanner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/fragment_settings.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/fragment_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/fragment_settings_scanner.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/fragment_settings_scanner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/fragment_sms_log.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/fragment_sms_log.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/fragment_ussd_log.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/fragment_ussd_log.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/image_button_enabled.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/image_button_enabled.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/image_button_pressed.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/image_button_pressed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/image_button_selector.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/image_button_selector.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/item_normal.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/item_normal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/item_pressed.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/item_pressed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/list_selector.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/list_selector.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/location_btn_selector.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/location_btn_selector.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/location_button_enabled.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/location_button_enabled.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/log_item.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/log_item.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/menu/main.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/menu/main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/.idea/misc.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/new_diagram.uxf" afterPath="$PROJECT_DIR$/Seraphimdroid/new_diagram.uxf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/.settings/org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/Seraphimdroid/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/password_buttons.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/password_buttons.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/permission_scanner_group.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/permission_scanner_group.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/layout/permission_scanner_item.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/layout/permission_scanner_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/proguard-project.txt" afterPath="$PROJECT_DIR$/Seraphimdroid/proguard-project.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/project.properties" afterPath="$PROJECT_DIR$/Seraphimdroid/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/settings_bg.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/settings_bg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/settings_enabled.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/settings_enabled.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/xml/settings_fragment.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/xml/settings_fragment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/settings_layout.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/settings_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/settings_pressed.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/settings_pressed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/drawable/settings_selector.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/drawable/settings_selector.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/values/strings.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/values/styles.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/values-v11/styles.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/values-v11/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Seraphimdroid/res/values-v14/styles.xml" afterPath="$PROJECT_DIR$/Seraphimdroid/res/values-v14/styles.xml" />
     </list>
     <ignored path="owasp-seraphimdroid5.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -86,7 +164,7 @@
       <file leaf-file-name=".project" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Seraphimdroid/.project">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="12.52">
+            <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -106,7 +184,7 @@
       <file leaf-file-name="project.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Seraphimdroid/project.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.68">
+            <state vertical-scroll-proportion="0.6728232">
               <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding />
             </state>
@@ -137,7 +215,7 @@
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="height" value="754" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -162,9 +240,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -182,6 +257,10 @@
       <pane id="AndroidView">
         <subPane />
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -190,33 +269,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="owasp-seraphimdroid5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="owasp-seraphimdroid5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="owasp-seraphimdroid5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="owasp-seraphimdroid5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Seraphimdroid" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -228,6 +282,7 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MediaPlayerPrototype" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -410,28 +465,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24320242" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24281392" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.320339" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31825796" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -446,7 +501,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Seraphimdroid/.project">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="12.52">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -462,7 +517,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Seraphimdroid/project.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seraphimdroid/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seraphimdroid/proguard-project.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seraphimdroid/project.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6728232">
           <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
           <folding />
         </state>

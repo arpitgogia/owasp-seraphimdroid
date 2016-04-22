@@ -17,7 +17,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 	public final static String TABLE_SMS_LOGS = "sms_logs";
 	public final static String TABLE_USSD_LOGS = "ussd_logs";
 	public static final String TABLE_LOCKS = "locks";
-	public static final String TABLE_SERVICES_LOCKS = "org/owasp/seraphimdroid/services";
+	public static final String TABLE_SERVICES_LOCKS = "services";
 	public static final String TABLE_PASS = "password";
 	public final static String TABLE_BLACKLIST = "blacklist";
 	public final static String TABLE_BLOCKED_USSD = "block_ussd";
